@@ -10,7 +10,7 @@
 
 ## 1. Purpose / Description of the App
 
-This application is an internal task management system intended for enterprise distribution via MDM or Private Play Store within Pakistan. It is not intended for public use. Access is restricted to authorized employees or contractors operating under strict confidentiality and legal compliance.
+This application is an internal task management system. It is not intended for public use. Access is restricted to authorized employees or contractors operating under strict confidentiality and legal compliance.
 
 ---
 
